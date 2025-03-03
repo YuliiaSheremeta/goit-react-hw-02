@@ -1,0 +1,8 @@
+.feedback{
+    border: 1px solid greenyellow;
+   width: 200px;
+  text-align: left;
+}
+.container{
+    margin-top: 50px;
+}
